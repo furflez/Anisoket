@@ -1,7 +1,7 @@
 Anisoket
 ========
 
-Esta classe tem por objetivo simplificar a configuração e utilização de sockets em C#
+Estas classes tem por objetivo simplificar a configuração e utilização de sockets em Java e C#
 
 ##Usabilidade
 
